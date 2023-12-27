@@ -5,6 +5,7 @@
     }
 
    public void logowanie() {
+<<<<<<< HEAD
         System.out.println("Podaj mail z gmail");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
